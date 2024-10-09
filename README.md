@@ -2,6 +2,7 @@
 <h3 align="center">I'm a passionate fourth-year Computer Engineering student, focused on Mobile Development and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamilkeben&label=Profile%20views&color=0e75b6&style=flat" alt="kamilkeben" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"
 
 - 🔭 I’m currently working on **Personal Projects**
 
